@@ -7,6 +7,6 @@ el patrón defactory method es un patrón de creación que utiliza factory metho
 
 Creator: declara el metodo de fabricacion, que devuleve un objeto de tipo product.
 
-ConcretCreator. redefine el metodo de fabricacion para devolver un producto. 
+ConcreteCreator. redefine el metodo de fabricacion para devolver un producto. 
 
-productoConcreto: es el resultado final. El creador se apoya en sus subclases para definir el metodo de fabricacion que devuelve el objeto apropiado
+productConcret: es el resultado final. El creador se apoya en sus subclases para definir el metodo de fabricacion que devuelve el objeto apropiado
