@@ -6,4 +6,32 @@ proveer un mecaniosmo para limitar el numero de instancias de una clase. por lo 
 
 Singleton: define una instancia para que los clientes puedan accederla. Esta instancia es accedida mediante un metodo de clase.
 
-Ejemplo: 
+Ejemplo python: 
+
+class SoyUnico():
+
+    __instance = None
+    nombre = None
+
+    def __str__(self):
+        return self.nombre
+
+    def __new__(cls):
+        if SoyUnico.__instance is None:
+            SoyUnico.__instance = object.__new__(cls)
+        return SoyUnico.__instance
+
+ricardo = SoyUnico()
+ricardo.nombre = "Ricardo Moya"
+print(ricardo)
+ramon = SoyUnico()
+ramon.nombre = "Ramón Invarato"
+print(ramon)
+
+print(ricardo)
+print(ramon)
+chris = SoyUnico()
+chris.nombre = "Christian Ramirez"
+
+print (ricardo)
+print (ramon)
