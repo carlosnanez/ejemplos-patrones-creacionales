@@ -16,5 +16,5 @@ Singleton: https://github.com/Chrisgrm/ejemplos-patrones-creacionales/tree/maste
 
 Estructurales:
 
-Adapter: 
+Adapter: https://github.com/Chrisgrm/ejemplos-patrones-creacionales/tree/master/Adapter
 
