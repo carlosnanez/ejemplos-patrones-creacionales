@@ -12,5 +12,9 @@ Builder: https://github.com/Chrisgrm/ejemplos-patrones-creacionales/tree/master/
 
 Prototype: https://github.com/Chrisgrm/ejemplos-patrones-creacionales/tree/master/Prototype
 
-Singleton: 
+Singleton: https://github.com/Chrisgrm/ejemplos-patrones-creacionales/tree/master/Singleton
+
+Estructurales:
+
+Adapter: 
 
