@@ -9,3 +9,6 @@ ConcreteFactory: implementa las operaciones para la creacion de objetos de produ
 ConcretProduct: define un objeto de producto que la correspondiente factoria concreta se encargaria de crear, a la vez implementa la interfaz producto abstracto.
 
 Client: utiliza solamente las interfaces declaradas en la factoria y en los productos abstractos.
+
+
+Ejemplo: https://github.com/Chrisgrm/ejemplos-patrones-creacionales/blob/master/AbstractFactory/src/abstractfactory/Main.java
