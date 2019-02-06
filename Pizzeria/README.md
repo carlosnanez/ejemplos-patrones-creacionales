@@ -13,6 +13,6 @@ concretBuilder: implementa Builder y ensambla las partes que constituyen el obje
 Director: construye unn objeto usando la interfaz builder. Solo deberia ser necesario especificar su tipo y asi poder reutilizar el mismo proceso para distintos tipos.
 
 
-
+Ejemplo: https://github.com/Chrisgrm/ejemplos-patrones-creacionales/blob/master/Pizzeria/src/principal/Principal.java
 
 
