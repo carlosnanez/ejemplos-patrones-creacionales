@@ -12,3 +12,5 @@ Adapatee:  define una interfaz existente que necesita adaptarse
 Cliente: colabora con la conformacion de objetos para la interfaz target
 
 Adapter: adapta la interfaz existente que necesita adaptarse.
+
+Ejemplo :https://github.com/Chrisgrm/ejemplos-patrones-creacionales/blob/master/Adapter/src/Main.java
