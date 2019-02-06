@@ -9,3 +9,6 @@ Prototipo. declar la interface del onejto que se clona. suele ser una clase abst
 PrototipoConcreto: las clases en este papel implementan una operacion por medio de la clonacion de si mismo.
 
 Cliente: crea nuevos objetos pidiendo al prototipo que se clone.
+
+
+Ejemplo: https://github.com/Chrisgrm/ejemplos-patrones-creacionales/blob/master/Prototype/src/Main.java
