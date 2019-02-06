@@ -10,3 +10,5 @@ Creator: declara el metodo de fabricacion, que devuleve un objeto de tipo produc
 ConcreteCreator. redefine el metodo de fabricacion para devolver un producto. 
 
 ConcretProduct: es el resultado final. El creador se apoya en sus subclases para definir el metodo de fabricacion que devuelve el objeto apropiado
+
+Ejemplo_ https://github.com/Chrisgrm/ejemplos-patrones-creacionales/blob/master/FactoryMethod/src/Main.java
